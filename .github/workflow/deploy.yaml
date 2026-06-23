@@ -1,4 +1,4 @@
-name: Despliegue Continuo VZeta
+name: Testeo de Despliegue 
 
 on:
   push:
